@@ -3,6 +3,10 @@ SpeechMaster is a proactive, conversational microlearning services for smart spe
 
 # Repository Structure: 
 SpeechMaster consists of three core files: 
+
 index.js: 
+
 sentence.js: 
+
 package.json: 
+
