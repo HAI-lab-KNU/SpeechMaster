@@ -2,9 +2,8 @@
 SpeechMaster is a proactive, conversational microlearning services for smart speakers. It is designed to improve English pronunciation through speech shadowing techniques. SpeechMaster was implemented in a commercial smart speaker (Google Nest Mini) and developed a speaker add-on device and related applications (triggering app, sensing app, and image deleter app) that enable the speaker to operate proactively. The process of SpeechMaster consists of four steps: (1) activity inquiry, (2) availability inquiry, (3) speech shadowing, and (4) continue-to-next inquiry. 
 
 # How to backup Google Actions project
-Install @assistant/gactions: https://github.com/actions-on-google/gactions
-
-Log in to your Google account: type ‘gactions login’ in your terminal
+* Install @assistant/gactions: https://github.com/actions-on-google/gactions
+* Log in to your Google account: type ‘gactions login’ in your terminal
 
 Initialize ‘settings.yaml’ file
 
@@ -20,4 +19,4 @@ In your terminal, navigate to “smartspeaker” folder (e.g., ‘cd smartspeake
 
 Type “gactions pull”. your actions project will be updated inside ‘smartspeaker’ folder
 
-**sdfd**
+
