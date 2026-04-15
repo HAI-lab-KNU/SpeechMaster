@@ -5,11 +5,11 @@ SpeechMaster is a proactive, conversational microlearning services for smart spe
 * Install @assistant/gactions: https://github.com/actions-on-google/gactions
 * Log in to your Google account: type ‘gactions login’ in your terminal
 * Initialize ‘settings.yaml’ file
-** Create a folder(e.g., ‘smartspeaker’) inside working directory (e.g., ‘mkdir -p smartspeaker/settings’)
-** Create a ‘settings.yaml’ file inside ‘settings’ folder (‘/smartspeaker/settings/settings.yaml’)
-** Put ‘projectId’ information inside the ‘settings.yaml’ file (‘projectId: proactivespeaker-def0a’)
+  *  Create a folder(e.g., ‘smartspeaker’) inside working directory (e.g., ‘mkdir -p smartspeaker/settings’)
+  * Create a ‘settings.yaml’ file inside ‘settings’ folder (‘/smartspeaker/settings/settings.yaml’)
+  * Put ‘projectId’ information inside the ‘settings.yaml’ file (‘projectId: proactivespeaker-def0a’)
 * Command to pull your actions project to the local
-** In your terminal, navigate to “smartspeaker” folder (e.g., ‘cd smartspeaker’)
-** Type “gactions pull”. your actions project will be updated inside ‘smartspeaker’ folder
+  * In your terminal, navigate to “smartspeaker” folder (e.g., ‘cd smartspeaker’)
+  * Type “gactions pull”. your actions project will be updated inside ‘smartspeaker’ folder
 
 
