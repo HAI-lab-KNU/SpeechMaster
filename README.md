@@ -20,3 +20,4 @@ In your terminal, navigate to “smartspeaker” folder (e.g., ‘cd smartspeake
 
 Type “gactions pull”. your actions project will be updated inside ‘smartspeaker’ folder
 
+**sdfd**
