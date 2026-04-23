@@ -19,15 +19,3 @@ Before getting started, make sure you have the following installed:
 ## Important notice: 
 Google Conversational Actions was officially discontinued on June 13, 2023. This repository is preserved for archival and research reference purposes. The action can no longer be deployed or activated through Google Assistant.
 
-# How to backup Google Actions project
-* Install @assistant/gactions: https://github.com/actions-on-google/gactions
-* Log in to your Google account: type ‘gactions login’ in your terminal
-* Initialize ‘settings.yaml’ file
-  *  Create a folder(e.g., ‘smartspeaker’) inside working directory (e.g., ‘mkdir -p smartspeaker/settings’)
-  * Create a ‘settings.yaml’ file inside ‘settings’ folder (‘/smartspeaker/settings/settings.yaml’)
-  * Put ‘projectId’ information inside the ‘settings.yaml’ file (‘projectId: proactivespeaker-def0a’)
-* Command to pull your actions project to the local
-  * In your terminal, navigate to “smartspeaker” folder (e.g., ‘cd smartspeaker’)
-  * Type “gactions pull”. your actions project will be updated inside ‘smartspeaker’ folder
-
-
