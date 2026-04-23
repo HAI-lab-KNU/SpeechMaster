@@ -3,7 +3,7 @@ SpeechMaster is a proactive, conversational microlearning services for smart spe
 
 # Repository structure
 - **sdk/**  \# Google Actions SDK project files 
-- **manifest.yaml**  \# Project metadata and version info
+- ***manifest.yaml***  \# Project metadata and version info
 - **actions/**  \# Action entry points and invocation config
 - **custom/**  \# Custom intents, scenes, and prompts
 - **settings/**  \# Project settings (projectId, locale, etc.)
