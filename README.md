@@ -4,6 +4,8 @@ SpeechMaster is a proactive, conversational microlearning services for smart spe
 # SpeechMaster App: 
 ?
 
+⚠️ Important notice: Google Conversational Actions was officially discontinued on June 13, 2023. This repository is preserved for archival and research reference purposes. The action can no longer be deployed or activated through Google Assistant.
+
 # How to backup Google Actions project
 * Install @assistant/gactions: https://github.com/actions-on-google/gactions
 * Log in to your Google account: type ‘gactions login’ in your terminal
