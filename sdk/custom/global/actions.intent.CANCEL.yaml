@@ -1,3 +1,0 @@
-handler:
-  webhookHandler: setEndTime
-transitionToScene: actions.scene.END_CONVERSATION
