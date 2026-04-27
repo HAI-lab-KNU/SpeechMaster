@@ -23,6 +23,6 @@ Actions/sdk/
 * Install @assistant/gactions: https://github.com/actions-on-google/gactions
 * Log in to your Google account: type ‘gactions login’ in your terminal
 * Initialize ‘settings.yaml’ file
-** Create a folder(e.g., ‘smartspeaker’) inside working directory (e.g., ‘mkdir -p smartspeaker/settings’)
+  * Create a folder(e.g., ‘smartspeaker’) inside working directory (e.g., ‘mkdir -p smartspeaker/settings’)
 
 
