@@ -19,7 +19,7 @@ Actions/sdk/
 * Google account with access to Actions on Google console
 * Google Actions CLI (gactions)
 
-In detail: https://developers.google.com/assistant/conversational/overview
+# In detail: https://developers.google.com/assistant/conversational/overview
 
 ## Important notice: 
 Google Conversational Actions was officially discontinued on June 13, 2023. This repository is preserved for archival and research reference purposes. The action can no longer be deployed or activated through Google Assistant.
