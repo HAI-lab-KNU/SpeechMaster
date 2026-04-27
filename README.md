@@ -4,7 +4,8 @@ SpeechMaster is a proactive conversational microlearning service designed for co
 ## Important notice: 
 SpeechMaster was originally developed as a Google Conversational Actions project designed to run on Google Nest Mini. Following the official shutdown of the platform on June 13, 2023, this implementation can no longer be executed or tested in its original environment. However, the source code is provided to illustrate the system design, dialog structure, and webhook-based interaction logic used in the project.
 
-## In detail: https://developers.google.com/assistant/conversational/overview
+## For more information about Conversational Actions: https://developers.google.com/assistant/conversational/overview
+## For more information about sunset of Conversational Actions: https://developers.google.com/assistant/ca-sunset#what_is_being_removed
 
 #  Repository structure
 Funtions/ 
