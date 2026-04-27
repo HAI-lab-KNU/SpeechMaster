@@ -6,6 +6,7 @@ Funtions/
 * index.js
 * package.json
 * sentence.js
+  
 Actions/sdk/
 * actions/
 * custom/
