@@ -1,0 +1,21 @@
+category: EDUCATION_AND_REFERENCE
+defaultLocale: en
+enabledRegions:
+- South Korea
+localizedSettings:
+  developerEmail: kimauk@gmail.com
+  developerName: Auk Kim
+  displayName: Speech Shadowing
+  fullDescription: If you want to improve your English listening and speaking skills, try this app. This app utilizes a speech shadowing technique to improve English pronunciation. Copying the speech of a native speaker helps you to hear and process English. When the speaker says a randomly selected 17-letter sentence, please hear and repeat what the speaker says.
+  privacyPolicyUrl: https://docs.google.com/document/d/1XkR7oYla4Mp-5ww9oMHcBeiVVb0dOJzEA5bFxw-T7b8/edit?usp=sharing
+  pronunciation: Speech Shadowing
+  sampleInvocations:
+  - Talk to Speech Shadowing
+  shortDescription: Speech Shadowing for English
+  smallLogoImage: https://lh3.googleusercontent.com/pBVvx63ogsn120OhyLlyW8kEPCR0QSGqmTvHoFGljdPgjsEYi5ID32hP3BkGOqybyAPRKGspXkgS
+  voice: female_3
+  voiceLocale: en-US
+projectId: speechmaster-42601
+surfaceRequirements:
+  minimumRequirements:
+  - capability: AUDIO_OUTPUT

@@ -1,0 +1,23 @@
+intentEvents:
+- handler:
+    webhookHandler: incrementPracIterNo
+  intent: actions.intent.YES
+  transitionToScene: SpeechPractice
+- handler:
+    webhookHandler: setEndTime
+  intent: actions.intent.NO
+  transitionToScene: actions.scene.END_CONVERSATION
+- handler:
+    webhookHandler: learningEnquiryErrorHandling
+  intent: actions.intent.NO_MATCH_1
+- handler:
+    webhookHandler: learningEnquiryErrorHandling
+  intent: actions.intent.NO_INPUT_1
+- handler:
+    webhookHandler: learningEnquiryErrorHandling
+  intent: actions.intent.NO_MATCH_2
+- handler:
+    webhookHandler: learningEnquiryErrorHandling
+  intent: actions.intent.NO_INPUT_2
+onEnter:
+  webhookHandler: setLearningEnquiryTime
