@@ -11,10 +11,12 @@ SpeechMaster is a proactive, conversational microlearning services for smart spe
 - **webhooks/**  \# Fulfillment webhook handler definitions
 
 # Prerequisites
-Before getting started, make sure you have the following installed:
 * Node.js v10.13 or later
 * Google account with access to Actions on Google console
 * Google Actions CLI (gactions)
+
+# Installation
+https://developers.google.com/assistant/conversational/overview
 
 ## Important notice: 
 Google Conversational Actions was officially discontinued on June 13, 2023. This repository is preserved for archival and research reference purposes. The action can no longer be deployed or activated through Google Assistant.
